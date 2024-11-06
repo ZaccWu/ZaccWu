@@ -6,8 +6,13 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 Interested in business, social science, and ML/AI research.
-- 🌱 Currently working on social network analysis and causal inference, bridging the gap between prediction and causal interpretation.
+Welcome, You are my ![Visitor Count](https://profile-counter.glitch.me/ZaccWu/count.svg) visitor, Thank You!🎉🎉
+
+
+- 🚀 I'm currently working on something cool.
+- 🔭 Interested in business, social science, and ML/AI research, aim at bridging the gap between prediction and causal interpretation.
+- 🌱 Looking forward for interesting academic collaborations and idea development.
+- 🤔 Enjoy participation in practical open-source/start-up projects.
 
 
 <table>
