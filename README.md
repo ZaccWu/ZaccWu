@@ -1,17 +1,17 @@
-<!--
+
 ## Hi there 👋
 
 
-**ZaccWu/ZaccWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[//]: # (**ZaccWu/ZaccWu** is a ✨ _special_ ✨ repository because its `README.md` &#40;this file&#41; appears on your GitHub profile.)
 
 Here are some ideas to get you started:
 
 
-Welcome, You are my ![Visitor Count](https://profile-counter.glitch.me/ZaccWu/count.svg) visitor, Thank You!🎉🎉
+[//]: # (Welcome, You are my ![Visitor Count]&#40;https://profile-counter.glitch.me/ZaccWu/count.svg&#41; visitor, Thank You!🎉🎉)
 
 
 - 🚀 I'm currently working on something cool.
-- 🔭 Interested in business, social science, and ML/AI research, aim at bridging the gap between prediction and causal interpretation.
+- 🔭 Interested in business, social science, and ML/AI research, aim at bridging the gap between ML's prediction (industrial methodological practices) and causal inference (social science theories).
 - 🌱 Looking forward for interesting academic collaborations and idea development.
 - 🤔 Enjoy participation in practical open-source/start-up projects.
 
@@ -29,7 +29,7 @@ Welcome, You are my ![Visitor Count](https://profile-counter.glitch.me/ZaccWu/co
 </tr>
 </table>
 
--->
+
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaccwu&layout=compact)
