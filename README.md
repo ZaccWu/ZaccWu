@@ -13,7 +13,7 @@ This account is for alpha-version projects developments.
 - 🌱 Looking forward for interesting idea brainstorming, academic paper collaborations, and technique notes/blogs/tutorials organizations and developments
 - 🤔 Enjoy participation in practical open-source/start-up projects.
 
-
+<!--
 <table>
   <tr>
     <td><picture>
@@ -26,7 +26,7 @@ This account is for alpha-version projects developments.
 </td>
 </tr>
 </table>
-
+-->
 
 
 <!--
